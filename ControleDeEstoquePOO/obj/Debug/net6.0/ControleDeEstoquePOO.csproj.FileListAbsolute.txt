@@ -1,0 +1,15 @@
+C:\C#\ControleDeEstoquePOO\ControleDeEstoquePOO\bin\Debug\net6.0\ControleDeEstoquePOO.exe
+C:\C#\ControleDeEstoquePOO\ControleDeEstoquePOO\bin\Debug\net6.0\ControleDeEstoquePOO.deps.json
+C:\C#\ControleDeEstoquePOO\ControleDeEstoquePOO\bin\Debug\net6.0\ControleDeEstoquePOO.runtimeconfig.json
+C:\C#\ControleDeEstoquePOO\ControleDeEstoquePOO\bin\Debug\net6.0\ControleDeEstoquePOO.dll
+C:\C#\ControleDeEstoquePOO\ControleDeEstoquePOO\bin\Debug\net6.0\ControleDeEstoquePOO.pdb
+C:\C#\ControleDeEstoquePOO\ControleDeEstoquePOO\obj\Debug\net6.0\ControleDeEstoquePOO.csproj.AssemblyReference.cache
+C:\C#\ControleDeEstoquePOO\ControleDeEstoquePOO\obj\Debug\net6.0\ControleDeEstoquePOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\ControleDeEstoquePOO\ControleDeEstoquePOO\obj\Debug\net6.0\ControleDeEstoquePOO.AssemblyInfoInputs.cache
+C:\C#\ControleDeEstoquePOO\ControleDeEstoquePOO\obj\Debug\net6.0\ControleDeEstoquePOO.AssemblyInfo.cs
+C:\C#\ControleDeEstoquePOO\ControleDeEstoquePOO\obj\Debug\net6.0\ControleDeEstoquePOO.csproj.CoreCompileInputs.cache
+C:\C#\ControleDeEstoquePOO\ControleDeEstoquePOO\obj\Debug\net6.0\ControleDeEstoquePOO.dll
+C:\C#\ControleDeEstoquePOO\ControleDeEstoquePOO\obj\Debug\net6.0\refint\ControleDeEstoquePOO.dll
+C:\C#\ControleDeEstoquePOO\ControleDeEstoquePOO\obj\Debug\net6.0\ControleDeEstoquePOO.pdb
+C:\C#\ControleDeEstoquePOO\ControleDeEstoquePOO\obj\Debug\net6.0\ControleDeEstoquePOO.genruntimeconfig.cache
+C:\C#\ControleDeEstoquePOO\ControleDeEstoquePOO\obj\Debug\net6.0\ref\ControleDeEstoquePOO.dll
